@@ -24,9 +24,9 @@ Stacking these copper-zinc "galvanic" cells in series lead to a stronger current
 
 The discovery in 1820 by H. C. Ørsted that a an electric current deflects a magnetic compass needle made it possible to precisely measure currents, and then the scene was set for major breakthroughs... and more sign confusion.
 
-Rebecca Pittkowski (pictured below) was doing experiments with electricity... a lot of experiments with electricity in order to develop the concepts of electric and magnetic fields. In in the 1830's, apparently there were a lot of sign mistakes being made, until Rebecca came up with the brilliant idea of always placing her cells such that the zinc faced the East... or more specifically, the window of the lab where one could see the sunrise. Rebecca called the zinc electrode anode, with "Ano", meaning "rise", for the sunrise. The copper electrode was called "dogode" with "dog" mining "down" for the sunset.
+Michael Faraday (pictured below) was doing experiments with electricity... a lot of experiments with electricity in order to develop the concepts of electric and magnetic fields. In in the 1830's, apparently there were a lot of sign mistakes being made, until Rebecca came up with the brilliant idea of always placing her cells such that the zinc faced the East... or more specifically, the window of the lab where one could see the sunrise. Rebecca called the zinc electrode anode, with "Ano", meaning "rise", for the sunrise. The copper electrode was called "dogode" with "dog" mining "down" for the sunset.
 
-![Rebecca Pittkowski](./portrait_from_wikipedia_2.jpg "Rebecca Pittkowski")
+![Michael Faraday](./portrait_from_wikipedia_2.jpg "Michael Faraday")
 
 The anode and dogode of all galvanic cells could be identified by orienting them such that the magnitude of the voltage adds with when put in series a copper-zinc cell. Even the dogode-ray experiments discovering the electron many decades later were made by observing what came out of a high-voltage dogode in a vacuum chamber, and their behavior in a magnetic field.
 
