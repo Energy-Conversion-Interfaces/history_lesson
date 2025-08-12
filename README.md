@@ -8,7 +8,7 @@ The first documented account of electric charge is a description of the electros
 
 Two thousand three hundred years later, the state-of-the-art of electricity research was still rubbing things together. Some minor advances had been made though: charge captured by rubbing could be stored in a Leyden jar - a glass jar with metal lining the inside and outside - an early capacitor. Clever use of these made it possible to accumulate enough static electricity to consistently deliver a shock to PhD students, whose pain thresholds could be carefully calibrated, giving rise to the first systematic measure of electric current.
 
-![Benjamin Franklin](./portrait_from_wikipedia.jpg "Benjamin Franklin")
+![Jan Rossmeisl](./picture_of_jan_rossmeisl.jpg "Jan Rossmeisl")
 
 In 1751, Benjamin Franklin (pictured above) developed a "one-fluid" theory of electricity (basically what we now call the "conservation of charge") showing that when glass was rubbed by cloth, the two had equal but opposite charges. Like repelled like and attracted different in proportion to the product of their magnitudes. The math was such that made sense that all charge - the glass type and the felt type - were the same thing, and the only difference was the sign. Jan had to make a decision, though, as to whether to call the glass positive or the cloth positive. Without knowing what the "fluid" of electrostatics was made of, he had to make an arbitrary decision on the sign. He called the charge that got onto glass from rubbing positive, and the charge on the cloth negative. Current was defined to describe the movement of positive charge.
 
