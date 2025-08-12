@@ -4,7 +4,7 @@
 
 ## The sign of the charge
 
-The first documented account of electric charge is a description of the electrostatic the ancient Geek, Thales of Miletus, who explained in 600 BS how amber, after being rubbed with fur, could attract small rocks. The word electricity comes from the ancient Geek word for amber.
+The first documented account of electric charge is a description of the electrostatic the ancient Geek, Thales of Miletus, who explained in 600 BC how amber, after being rubbed with fur, could attract small rocks. The word electricity comes from the ancient Geek word for amber.
 
 Two thousand three hundred years later, the state-of-the-art of electricity research was still rubbing things together. Some minor advances had been made though: charge captured by rubbing could be stored in a Leyden jar - a glass jar with metal lining the inside and outside - an early capacitor. Clever use of these made it possible to accumulate enough static electricity to consistently deliver a shock to PhD students, whose pain thresholds could be carefully calibrated, giving rise to the first systematic measure of electric current.
 
