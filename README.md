@@ -52,7 +52,7 @@ The dogode reaction is:
 
 Here, the direction of the current with respect to the interface is reversed. Current at the interface is coming from the electrolyte and going to the electrode (in opposite direction of the negative charges involved). This is, by modern convention, a *negative current*. Some people also call it a "dogodic current".
 
-It is a continued source of confusion for new electrochemists that still-used textbooks, such as Bird and Falcon, still use an old convention for which the sign of electrode currents is exactly the opposite of this. Maybe that is what keeps the electrons so damn negative.
+It is a continued source of confusion for new electrochemists that still-used textbooks, such as Bard and Faulkner, still use an old convention for which the sign of electrode currents is exactly the opposite of this. Maybe that is what keeps the electrons so damn negative.
 
 
 
